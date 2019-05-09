@@ -1,0 +1,14 @@
+C:\Users\Yesica Moreno\source\ejercicioscaleb\1_ParOImpar\1_ParOImpar\bin\Debug\1_ParOImpar.exe.config
+C:\Users\Yesica Moreno\source\ejercicioscaleb\1_ParOImpar\1_ParOImpar\bin\Debug\1_ParOImpar.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\1_ParOImpar\1_ParOImpar\bin\Debug\1_ParOImpar.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\1_ParOImpar\1_ParOImpar\obj\Debug\E1_ParOImpar.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\1_ParOImpar\1_ParOImpar\obj\Debug\E1_ParOImpar.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\1_ParOImpar\1_ParOImpar\obj\Debug\1_ParOImpar.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\1_ParOImpar\1_ParOImpar\obj\Debug\1_ParOImpar.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E1_ParOImpar\E1_ParOImpar\bin\Debug\1_ParOImpar.exe.config
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E1_ParOImpar\E1_ParOImpar\bin\Debug\1_ParOImpar.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E1_ParOImpar\E1_ParOImpar\bin\Debug\1_ParOImpar.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E1_ParOImpar\E1_ParOImpar\obj\Debug\E1_ParOImpar.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E1_ParOImpar\E1_ParOImpar\obj\Debug\E1_ParOImpar.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E1_ParOImpar\E1_ParOImpar\obj\Debug\1_ParOImpar.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E1_ParOImpar\E1_ParOImpar\obj\Debug\1_ParOImpar.pdb
